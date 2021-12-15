@@ -28,25 +28,41 @@ Four buttons, graphic panel, two “labels”, two text boxes and the timer. The
 1. Buttons:
 
 • Start: makes the connection to the server and starts receiving data.
+
+
 • Stop: disconnection occurs.
+
+
 • Save samples: stores the low and high byte of each sample, below the indication “New data”.
+
+
 • Finish saving: stops saving the bytes.
 
 
 2. Graphic Panel:
+
+
 • It allows observing the input signal in real time, previously an average of the input samples is carried out.
 
 
 3. Label:
+
+
 • They indicate the meaning of the text boxes.
 
 
 4. Text boxes:
+
+
 • Displays the IP address of the server.
+
+
 • Shows the port used by the server.
 
 
 5. Timer:
+
+
 • Perform program interruption every specified time. Within it, the bytes coming from the server are read and they are also plotted in real time.
 
 ## Reception in Matlab
