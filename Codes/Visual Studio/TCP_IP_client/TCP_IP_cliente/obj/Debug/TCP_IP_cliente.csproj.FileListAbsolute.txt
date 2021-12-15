@@ -1,0 +1,24 @@
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\TCP_IP_cliente.exe.config
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\TCP_IP_cliente.exe
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\TCP_IP_cliente.pdb
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\SimpleTCP.dll
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csprojAssemblyReference.cache
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.Form1.resources
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.Properties.Resources.resources
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csproj.GenerateResource.cache
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csproj.CoreCompileInputs.cache
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csproj.CopyComplete
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.exe
+C:\Users\FP\source\repos\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.pdb
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\TCP_IP_cliente.exe.config
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\TCP_IP_cliente.exe
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\TCP_IP_cliente.pdb
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\bin\Debug\SimpleTCP.dll
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csprojAssemblyReference.cache
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.Form1.resources
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.Properties.Resources.resources
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csproj.GenerateResource.cache
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csproj.CoreCompileInputs.cache
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.csproj.CopyComplete
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.exe
+C:\Users\juan_\OneDrive\Documentos\Tesis\Resumen Tesis\Visual Studio\TCP_IP_cliente\TCP_IP_cliente\obj\Debug\TCP_IP_cliente.pdb
