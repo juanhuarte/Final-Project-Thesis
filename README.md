@@ -95,9 +95,11 @@ Once the Setup is finished, it is verified if the TCP / IP connection between th
 
 ## To conclude
 
-Finally we desing printed circuit board as shown in the following images:
+Finally we desing printed 3D circuit board as shown in the following images:
 
 ![image](https://user-images.githubusercontent.com/66688256/146223857-f17bafe6-7b40-4212-b545-5f4f4bce579b.png)
+
+
 ![image](https://user-images.githubusercontent.com/66688256/146223883-b3511469-684b-4a5a-abb1-f45d3e77425c.png)
 
 
